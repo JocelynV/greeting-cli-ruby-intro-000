@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
-def greeting 
-   puts "Hi my name is HAL, what's your name?" 
+def greeting
+   puts "Hi my name is HAL, what's your name?"
  end
  [name] = "#{gets.}"
 # code your CLI here!
